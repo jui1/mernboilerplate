@@ -13,9 +13,7 @@ s
 * Sample mongoose connection provided for connecting API with database like mongodb
 * Heroku Deployment Configurations
 
-## Available Scripts
 
-For APIs to work in development please add a **.env** file in root of the project and add your **MONGODB_URI** in that file.
 
 ### `yarn start`
 
